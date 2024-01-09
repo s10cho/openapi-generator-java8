@@ -1,0 +1,12 @@
+# Custom
+target/
+
+# IntelliJ Idea
+.idea/
+*.iml
+*.ipr
+
+### build
+.flattened-pom.xml
+.swagger-codegen
+.openapi-generator
